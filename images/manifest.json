@@ -1,9 +1,0 @@
-{
-  "version": "20260924-001",
-  "rotation_seconds": 8,
-  "images": [
-    { "file": "event1.png", "enabled": true },
-    { "file": "event2.png", "enabled": true },
-    { "file": "event3.png", "enabled": true }
-  ]
-}
